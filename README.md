@@ -29,4 +29,10 @@ $ npm install bootstrap
 3. Add a file `contacts.js`. Use `"Cards"` from Bootstrap. Based on the JSON data, create a list of "Cards" for `return()`.
 
 ## Output
+Start the app by running
+```bash
+$ npm start
+```
+in the application root. After the application is successfully compiled, you should be able to see the following in `localhost:3000`.
+
 ![demo-output](screenshots/demo-output.png)
